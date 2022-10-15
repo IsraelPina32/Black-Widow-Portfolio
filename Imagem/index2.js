@@ -8,3 +8,5 @@ const Imagem = () =>{
         <Image style={estilos.Viuva}  souce={   Viuva }/>
     </View>
 }
+
+export default Imagem;
