@@ -4,7 +4,6 @@ const TextEstilo = StyleSheet.create({
     contanier:{
         width:450,
         height:50,
-        backgroundColor: 'red',
     },
     TextStyle: {
         color: 'white',
